@@ -43,11 +43,8 @@ header{
     margin-inline: auto;
     margin-bottom: 3rem;
     }
-}
 
-
-
-button{
+    button{
     border: none;
     background: none;
     font-size: 1.4rem;
@@ -63,3 +60,12 @@ h1{
     color: var(--content-primary);
     line-height: 3.2rem;
 }
+}
+
+main{
+    max-width: 62.7rem;
+    margin-inline: auto;
+}
+
+
+
