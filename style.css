@@ -152,13 +152,14 @@ main{
                 text-decoration: line-through;
             }
 
-            button{
+                }
+
+                button{
                 background: none;
                 border: none;
                 display: flex;
                 align-items: center;
                 cursor: pointer;
-                }
         }
             
         img{
